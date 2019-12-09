@@ -261,3 +261,4 @@ e2 = T(2) - y;
 % calculate the total error for these 2 inputs 
 e = abs(e1) + abs(e2);
 fprintf(' klaida = %i',e)
+
